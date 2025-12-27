@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/SAMUEL/Desktop/ai-tutor/web/app/layout.tsx"],"sourcesContent":["layout.tsx;\n"],"names":[],"mappings":"AAAA,OAAO,GAAG"}}]
+}
